@@ -27,8 +27,8 @@ It was built end-to-end — from raw data cleaning through feature engineering, 
 
 ## Demo
 
-> Add a link, e.g.: https://predictive-forecasting-of-care-load-placement-demand-0.streamlit.app
-> `![Dashboard preview](assets/dashboard-preview.png)`
+>  https://predictive-forecasting-of-care-load-placement-demand-0.streamlit.app
+
 
 ## Key Features
 
